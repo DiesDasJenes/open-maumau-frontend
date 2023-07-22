@@ -1,0 +1,8 @@
+.landingpage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height to the viewport height for full-screen effect */
+  }
+  
